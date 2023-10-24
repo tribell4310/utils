@@ -8,3 +8,8 @@ Quality-of-life scripts to convert negative-stain EM images from dm3 format to m
  - convert2.sh will use proc2d to create full-res png image files for each image
  - thumbnail_prep.sh will transfer the png files to a new directory called "test"
  - thumbnail.py will create reasonably sized thumbnail images for each image in "test", and output them into the "test" subdirectory
+
+# gb2fa
+
+ - Convert genbank files to fasta files for plain-text (no annotations) storage of plasmid data
+ - Hooray, documentation of your constructs has survived nuclear winter (even though your constructs probably didn't)
