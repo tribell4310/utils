@@ -13,3 +13,7 @@ Quality-of-life scripts to convert negative-stain EM images from dm3 format to m
 
  - Convert genbank files to fasta files for plain-text (no annotations) storage of plasmid data
  - Hooray, documentation of your constructs has survived nuclear winter (even though your constructs probably didn't)
+
+# json2bfactor
+
+ - Convert AlphaFold2 json plDDT outputs into a text file formatted as B-factors for pymol import
